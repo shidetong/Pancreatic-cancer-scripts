@@ -581,42 +581,5 @@ def base_fa(fa_file,peakfile,outfile):
         
     
 
-motif_seq('/public/home/shidetong/wedata/meme/classify_9/fimo/Castbias/B6M/fimo.tsv','/public/home/shidetong/wedata/meme/classify_9/ratio/Castbias/B6M.csv')
-motif_seq('/public/home/shidetong/wedata/meme/classify_9/fimo/background/B6M/fimo.tsv','/public/home/shidetong/wedata/meme/classify_9/ratio/background/B6M.csv')
-motif_seq('/public/home/shidetong/wedata/meme/classify_9/fimo/Mbias/B6M/fimo.tsv','/public/home/shidetong/wedata/meme/classify_9/ratio/Mbias/B6M.csv')
-motif_seq('/public/home/shidetong/wedata/meme/classify_9/fimo/Pbias/B6M/fimo.tsv','/public/home/shidetong/wedata/meme/classify_9/ratio/Pbias/B6M.csv')
-motif_seq('/public/home/shidetong/wedata/meme/classify_9/fimo/CBF1_M/B6M/fimo.tsv','/public/home/shidetong/wedata/meme/classify_9/ratio/CBF1_M/B6M.csv')
-motif_seq('/public/home/shidetong/wedata/meme/classify_9/fimo/CBF1_P/B6M/fimo.tsv','/public/home/shidetong/wedata/meme/classify_9/ratio/CBF1_P/B6M.csv')
-motif_seq('/public/home/shidetong/wedata/meme/classify_9/fimo/BCF1_M/B6M/fimo.tsv','/public/home/shidetong/wedata/meme/classify_9/ratio/BCF1_M/B6M.csv')
-motif_seq('/public/home/shidetong/wedata/meme/classify_9/fimo/BCF1_P/B6M/fimo.tsv','/public/home/shidetong/wedata/meme/classify_9/ratio/BCF1_P/B6M.csv')
 
-motif_seq('/public/home/shidetong/wedata/meme/classify_9/fimo/B6bias/B6P/fimo.tsv','/public/home/shidetong/wedata/meme/classify_9/ratio/B6bias/B6P.csv')
-motif_seq('/public/home/shidetong/wedata/meme/classify_9/fimo/Castbias/B6P/fimo.tsv','/public/home/shidetong/wedata/meme/classify_9/ratio/Castbias/B6P.csv')
-motif_seq('/public/home/shidetong/wedata/meme/classify_9/fimo/background/B6P/fimo.tsv','/public/home/shidetong/wedata/meme/classify_9/ratio/background/B6P.csv')
-motif_seq('/public/home/shidetong/wedata/meme/classify_9/fimo/Mbias/B6P/fimo.tsv','/public/home/shidetong/wedata/meme/classify_9/ratio/Mbias/B6P.csv')
-motif_seq('/public/home/shidetong/wedata/meme/classify_9/fimo/Pbias/B6P/fimo.tsv','/public/home/shidetong/wedata/meme/classify_9/ratio/Pbias/B6P.csv')
-motif_seq('/public/home/shidetong/wedata/meme/classify_9/fimo/CBF1_M/B6P/fimo.tsv','/public/home/shidetong/wedata/meme/classify_9/ratio/CBF1_M/B6P.csv')
-motif_seq('/public/home/shidetong/wedata/meme/classify_9/fimo/CBF1_P/B6P/fimo.tsv','/public/home/shidetong/wedata/meme/classify_9/ratio/CBF1_P/B6P.csv')
-motif_seq('/public/home/shidetong/wedata/meme/classify_9/fimo/BCF1_M/B6P/fimo.tsv','/public/home/shidetong/wedata/meme/classify_9/ratio/BCF1_M/B6P.csv')
-motif_seq('/public/home/shidetong/wedata/meme/classify_9/fimo/BCF1_P/B6P/fimo.tsv','/public/home/shidetong/wedata/meme/classify_9/ratio/BCF1_P/B6P.csv')
-
-motif_seq('/public/home/shidetong/wedata/meme/classify_9/fimo/B6bias/CastM/fimo.tsv','/public/home/shidetong/wedata/meme/classify_9/ratio/B6bias/CastM.csv')
-motif_seq('/public/home/shidetong/wedata/meme/classify_9/fimo/Castbias/CastM/fimo.tsv','/public/home/shidetong/wedata/meme/classify_9/ratio/Castbias/CastM.csv')
-motif_seq('/public/home/shidetong/wedata/meme/classify_9/fimo/background/CastM/fimo.tsv','/public/home/shidetong/wedata/meme/classify_9/ratio/background/CastM.csv')
-motif_seq('/public/home/shidetong/wedata/meme/classify_9/fimo/Mbias/CastM/fimo.tsv','/public/home/shidetong/wedata/meme/classify_9/ratio/Mbias/CastM.csv')
-motif_seq('/public/home/shidetong/wedata/meme/classify_9/fimo/Pbias/CastM/fimo.tsv','/public/home/shidetong/wedata/meme/classify_9/ratio/Pbias/CastM.csv')
-motif_seq('/public/home/shidetong/wedata/meme/classify_9/fimo/CBF1_M/CastM/fimo.tsv','/public/home/shidetong/wedata/meme/classify_9/ratio/CBF1_M/CastM.csv')
-motif_seq('/public/home/shidetong/wedata/meme/classify_9/fimo/CBF1_P/CastM/fimo.tsv','/public/home/shidetong/wedata/meme/classify_9/ratio/CBF1_P/CastM.csv')
-motif_seq('/public/home/shidetong/wedata/meme/classify_9/fimo/BCF1_M/CastM/fimo.tsv','/public/home/shidetong/wedata/meme/classify_9/ratio/BCF1_M/CastM.csv')
-motif_seq('/public/home/shidetong/wedata/meme/classify_9/fimo/BCF1_P/CastM/fimo.tsv','/public/home/shidetong/wedata/meme/classify_9/ratio/BCF1_P/CastM.csv')
-
-motif_seq('/public/home/shidetong/wedata/meme/classify_9/fimo/B6bias/CastP/fimo.tsv','/public/home/shidetong/wedata/meme/classify_9/ratio/B6bias/CastP.csv')
-motif_seq('/public/home/shidetong/wedata/meme/classify_9/fimo/Castbias/CastP/fimo.tsv','/public/home/shidetong/wedata/meme/classify_9/ratio/Castbias/CastP.csv')
-motif_seq('/public/home/shidetong/wedata/meme/classify_9/fimo/background/CastP/fimo.tsv','/public/home/shidetong/wedata/meme/classify_9/ratio/background/CastP.csv')
-motif_seq('/public/home/shidetong/wedata/meme/classify_9/fimo/Mbias/CastP/fimo.tsv','/public/home/shidetong/wedata/meme/classify_9/ratio/Mbias/CastP.csv')
-motif_seq('/public/home/shidetong/wedata/meme/classify_9/fimo/Pbias/CastP/fimo.tsv','/public/home/shidetong/wedata/meme/classify_9/ratio/Pbias/CastP.csv')
-motif_seq('/public/home/shidetong/wedata/meme/classify_9/fimo/CBF1_M/CastP/fimo.tsv','/public/home/shidetong/wedata/meme/classify_9/ratio/CBF1_M/CastP.csv')
-motif_seq('/public/home/shidetong/wedata/meme/classify_9/fimo/CBF1_P/CastP/fimo.tsv','/public/home/shidetong/wedata/meme/classify_9/ratio/CBF1_P/CastP.csv')
-motif_seq('/public/home/shidetong/wedata/meme/classify_9/fimo/BCF1_M/CastP/fimo.tsv','/public/home/shidetong/wedata/meme/classify_9/ratio/BCF1_M/CastP.csv')
-motif_seq('/public/home/shidetong/wedata/meme/classify_9/fimo/BCF1_P/CastP/fimo.tsv','/public/home/shidetong/wedata/meme/classify_9/ratio/BCF1_P/CastP.csv')
 
